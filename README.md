@@ -58,11 +58,11 @@ The goal is to make civic engagement feel modern, trustworthy, and genuinely usa
 
 ## Tech Stack
 
-| Layer      | Technology                          | Status         |
-|------------|--------------------------------------|----------------|
-| Frontend   | Next.js (App Router), TypeScript, Tailwind CSS | ✅ Built |
-| Backend    | Node.js + Express (planned)          | 🚧 Not yet built |
-| Database   | PostgreSQL (planned)                 | 🚧 Not yet built |
+| Layer      | Technology                                     | Status           |
+|------------|------------------------------------------------|------------------|
+| Frontend   | Next.js (App Router), TypeScript, Tailwind CSS | ✅ Built         |
+| Backend    | Node.js + Express (planned)                    | 🚧 Not yet built |
+| Database   | PostgreSQL (planned)                           | 🚧 Not yet built |
 
 > **Current state:** LeaderLink is a frontend-only prototype using hardcoded/mock data. Backend and database integration are planned as the next major milestones.
 
